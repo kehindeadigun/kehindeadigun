@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name is I'm Kehinde Adigun and I'm a data scientist.
-- 🔭 I'm interested in ML, Data Science and Analytics and love seeing data at the forefront of product development.
+- 🔭 I'm interested in ML, Data Science and Analytics. I love seeing data at the forefront of product development.
 - 🌱 I’m currently learning MLOps and scaling machine learning in production. 
 - 👯 I’m looking to collaborate on DS and ML projects.
 - 📫 You can reach me via mail @kehindeadiguno@gmail.com
