@@ -20,4 +20,4 @@ My name is I'm Kehinde Adigun and I'm a data scientist.
 - 🌱 I’m currently learning MLOps and scaling machine learning in production. 
 - 👯 I’m looking to collaborate on DS and ML projects.
 - 📫 You can reach me via mail @kehindeadiguno@gmail.com
-- 📝 I blog about DS and ML here (https://medium.com/@@kehindeadiguno)
+- 📝 I blog about DS and ML here (https://medium.com/@kehindeadiguno)
